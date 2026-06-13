@@ -3,7 +3,6 @@ import moment1 from "../assets/nos.jpg";
 import moment2 from "../assets/lianca.jpg";
 import moment3 from "../assets/tontinhos.jpg";
 import gallery1 from "../assets/us.jpg";
-import LiquidEther from "./LiquidEther";
 
 interface Chapter {
   date: string;
